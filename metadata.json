@@ -1,0 +1,8 @@
+{
+  "name": "ParkingMudde - AI Wrong Parking Detection",
+  "description": "An AI-powered system to detect and report illegal parking using computer vision and geo-fencing rules.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
